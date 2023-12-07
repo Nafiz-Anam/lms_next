@@ -1,7 +1,8 @@
 {
-  "name": "lms-tutorial",
+  "name": "lms_web_application",
   "version": "0.1.0",
   "private": true,
+  "author": "Nafiz Anam",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
